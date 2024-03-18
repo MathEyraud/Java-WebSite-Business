@@ -27,7 +27,7 @@ Ce projet utilise des tests unitaires pour vérifier le bon fonctionnement du co
 Une fois les dépendances installées, vous pouvez exécuter les tests unitaires en utilisant la commande suivante : `mvn test`
 Cela exécutera l'ensemble des tests unitaires définis. Les résultats des tests seront affichés dans la console.
 
-## Lien externe
+## Liens externes
 1. https://github.com/MathEyraud/Java-WebSite-CoucheBusiness
 2. https://github.com/MathEyraud/Java-WebSite-CoucheWebService
 3. https://github.com/MathEyraud/Angular-WebSite-CoucheWeb
